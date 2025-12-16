@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-furniture",
+      "description": "A showcase of exquisite handcrafted furniture in a well-lit, elegant room.",
+      "imageUrl": "https://images.unsplash.com/photo-1589863089941-51eddece5107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYW5kY3JhZnRlZCUyMGZ1cm5pdHVyZXxlbnwwfHx8fDE3NjQ3NDM2OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "handcrafted furniture"
+    },
+    {
+      "id": "outdoor-furniture",
+      "description": "Stylish outdoor furniture on a patio with a red carpet.",
+      "imageUrl": "https://images.unsplash.com/photo-1613317447829-eea2ed59640f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b3V0ZG9vciUyMGZ1cm5pdHVyZXxlbnwwfHx8fDE3NjQ3NDU2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "outdoor furniture"
+    },
+    {
+      "id": "office-furniture",
+      "description": "A wooden display case in a rustic office setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1571624436279-b272aff752b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvZmZpY2UlMjBmdXJuaXR1cmV8ZW58MHx8fHwxNzY0NzQ1NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "office furniture"
+    },
+    {
+      "id": "living-room-furniture",
+      "description": "A modern living room with a red sofa and a wooden coffee table.",
+      "imageUrl": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaXZpbmclMjByb29tfGVufDB8fHx8MTc2NDcwODk2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room"
+    },
+    {
+      "id": "bedroom-furniture",
+      "description": "A bedroom with cowhide chairs and eclectic decor.",
+      "imageUrl": "https://images.unsplash.com/photo-1556020685-ae41abfc9365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiZWRyb29tJTIwZnVybml0dXJlfGVufDB8fHx8MTc2NDc0NTYzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bedroom furniture"
+    },
+    {
+      "id": "dining-furniture",
+      "description": "A dining room with striped walls and a large clock.",
+      "imageUrl": "https://images.unsplash.com/photo-1758977403395-5ae10579231f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkaW5pbmclMjBmdXJuaXR1cmV8ZW58MHx8fHwxNzY0NzQ1NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dining furniture"
+    },
+    {
+      "id": "cafe-bar",
+      "description": "A cozy cafe with comfortable armchairs and small tables.",
+      "imageUrl": "https://images.unsplash.com/photo-1583106223774-3313c55721ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjYWZlJTIwYmFyfGVufDB8fHx8MTc2NDc0NTYzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cafe bar"
+    },
+    {
+      "id": "values-hero",
+      "description": "Elegant blue couch in a dark, sophisticated room setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibHVlJTIwY291Y2h8ZW58MHx8fHwxNzY1MzE0MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue couch"
+    },
+    {
+      "id": "vision-background",
+      "description": "A showroom displaying modern wooden furniture and pendant lights.",
+      "imageUrl": "https://images.unsplash.com/photo-1594026112274-935645706173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b29kZW4lMjBmdXJuaXR1cmV8ZW58MHx8fHwxNzY0NzQ1NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wooden furniture"
+    }
+  ]
+}
