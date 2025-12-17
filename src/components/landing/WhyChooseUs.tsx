@@ -34,34 +34,36 @@ const reasons = [
   },
 ];
 
+/*
 const WhyChooseUs = () => {
   return (
     <section id="why-choose-us" className="py-16 md:py-24 bg-background">
       <div className="container mx-auto px-6">
         <div className="text-center mb-12">
-          <p className="font-semibold uppercase tracking-widest text-accent mb-2">WHY CHOOSE US?</p>
+          <p className="font-semibold uppercase tracking-widest text-accent mb-2">
+            WHY CHOOSE US?
+          </p>
           <h2 className="text-4xl md:text-5xl font-headline font-bold text-primary">
             Unwavering Commitment to Quality and Client Success
           </h2>
           <p className="mt-4 max-w-3xl mx-auto text-muted-foreground">
-            We are not just suppliers; we are partners in your success. Our vertically integrated model—from quarry to container—ensures every piece of stone we deliver embodies our commitment to excellence. We provide architects, builders, and importers with a reliable, efficient, and quality-driven supply chain they can trust.
+            We are not just suppliers; we are partners in your success.
           </p>
         </div>
+
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {reasons.map((reason, index) => {
             const Icon = reason.icon;
             return (
-              <Card key={index} className="bg-card border-border text-left shadow-sm hover:shadow-lg transition-shadow duration-300">
-                <CardHeader className="flex flex-row items-start gap-4">
+              <Card key={index}>
+                <CardHeader className="flex flex-row gap-4">
                   <div className="bg-primary/10 p-3 rounded-full">
                     <Icon className="h-6 w-6 text-primary" />
                   </div>
-                  <div>
-                    <CardTitle className="font-headline text-xl text-primary">{reason.title}</CardTitle>
-                  </div>
+                  <CardTitle>{reason.title}</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-muted-foreground">{reason.description}</p>
+                  <p>{reason.description}</p>
                 </CardContent>
               </Card>
             );
@@ -73,3 +75,5 @@ const WhyChooseUs = () => {
 };
 
 export default WhyChooseUs;
+*/
+
