@@ -9,7 +9,7 @@
     {
       "id": "outdoor-furniture",
       "description": "Stylish outdoor furniture on a patio with a red carpet.",
-      "imageUrl": "https://images.unsplash.com/photo-1613317447829-eea2ed59640f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b3V0ZG9vciUyMGZ1cm5pdHVyZXxlbnwwfHx8fDE3NjQ3NDU2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766222494/bac14fe3-f369-4442-ab6d-0865d15305a3_1_rhfvud.png",
       "imageHint": "outdoor furniture"
     },
     {
@@ -21,19 +21,19 @@
     {
       "id": "living-room-furniture",
       "description": "A modern living room with a red sofa and a wooden coffee table.",
-      "imageUrl": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaXZpbmclMjByb29tfGVufDB8fHx8MTc2NDcwODk2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766219052/c0e59e1f-d53a-4b29-b8a7-dc6654911f7b_gqxmzx.png",
       "imageHint": "living room"
     },
     {
       "id": "bedroom-furniture",
       "description": "A bedroom with cowhide chairs and eclectic decor.",
-      "imageUrl": "https://images.unsplash.com/photo-1556020685-ae41abfc9365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiZWRyb29tJTIwZnVybml0dXJlfGVufDB8fHx8MTc2NDc0NTYzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766219051/e940e91d-6b10-4e59-aa61-0ce641ce07d4_xye8xu.png",
       "imageHint": "bedroom furniture"
     },
     {
       "id": "dining-furniture",
       "description": "A dining room with striped walls and a large clock.",
-      "imageUrl": "https://images.unsplash.com/photo-1758977403395-5ae10579231f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkaW5pbmclMjBmdXJuaXR1cmV8ZW58MHx8fHwxNzY0NzQ1NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766219051/f303806b-e97f-4165-9e7b-094f686c737e_1_kxfhhf.png",
       "imageHint": "dining furniture"
     },
     {
