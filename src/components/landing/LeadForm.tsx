@@ -29,13 +29,15 @@ const step2Schema = z.object({
 const formSchema = step1Schema.merge(step2Schema);
 
 const productRequirements = [
-  'Outdoor Furniture',
-  'Office Furniture',
-  'Living Room Furniture',
-  'Bedroom Furniture',
-  'Dining Furniture',
-  'Cafe and Bar',
-  'General Interiors/Other',
+  'Hotel Furniture ',
+  'Cafe and Restaurant Furniture ',
+  'Farmhouse Furniture',
+  'House / Villa Furniture',
+  'Furniture of Flat ',
+  'Bedroom Furniture ',
+  'Living Room Furniture ',
+  'Dining Room Furniture ',
+  'General Interiors / Others',
 ];
 
 // Function to send data to the backend API

@@ -9,7 +9,7 @@ const CTASection = () => {
           Have a Project in Mind?
         </h2>
         <p className="max-w-2xl mx-auto mb-8 text-secondary-foreground/80">
-          Let's discuss your requirements. Our team is ready to help you source the perfect premium furniture  for your needs.
+          Let's discuss your requirements. Our team is ready to help you source the perfect premium furniture for your needs.
         </p>
         <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
           <Link href="#form">Enquire Now</Link>
