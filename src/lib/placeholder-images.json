@@ -9,37 +9,37 @@
     {
       "id": "outdoor-furniture",
       "description": "Stylish outdoor furniture on a patio with a red carpet.",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766222494/bac14fe3-f369-4442-ab6d-0865d15305a3_1_rhfvud.png",
+      "imageUrl": "",
       "imageHint": "outdoor furniture"
     },
     {
       "id": "office-furniture",
       "description": "A wooden display case in a rustic office setting.",
-      "imageUrl": "https://images.unsplash.com/photo-1571624436279-b272aff752b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvZmZpY2UlMjBmdXJuaXR1cmV8ZW58MHx8fHwxNzY0NzQ1NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "",
       "imageHint": "office furniture"
     },
     {
       "id": "living-room-furniture",
       "description": "A modern living room with a red sofa and a wooden coffee table.",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766219052/c0e59e1f-d53a-4b29-b8a7-dc6654911f7b_gqxmzx.png",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766473277/image-03_mtzply.jpg",
       "imageHint": "living room"
     },
     {
       "id": "bedroom-furniture",
       "description": "A bedroom with cowhide chairs and eclectic decor.",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766219051/e940e91d-6b10-4e59-aa61-0ce641ce07d4_xye8xu.png",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766473277/image-01_uxgd3x.jpg",
       "imageHint": "bedroom furniture"
     },
     {
       "id": "dining-furniture",
       "description": "A dining room with striped walls and a large clock.",
-      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766219051/f303806b-e97f-4165-9e7b-094f686c737e_1_kxfhhf.png",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766473281/image-02_oghchm.jpg",
       "imageHint": "dining furniture"
     },
     {
       "id": "cafe-bar",
       "description": "A cozy cafe with comfortable armchairs and small tables.",
-      "imageUrl": "https://images.unsplash.com/photo-1583106223774-3313c55721ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjYWZlJTIwYmFyfGVufDB8fHx8MTc2NDc0NTYzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766473277/image-04_vfnwtr.jpg",
       "imageHint": "cafe bar"
     },
     {
