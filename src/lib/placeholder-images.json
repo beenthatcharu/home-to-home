@@ -9,13 +9,13 @@
     {
       "id": "outdoor-furniture",
       "description": "Stylish outdoor furniture on a patio with a red carpet.",
-      "imageUrl": "",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766548970/image-01_1_fgmgyo.jpg",
       "imageHint": "outdoor furniture"
     },
     {
       "id": "office-furniture",
       "description": "A wooden display case in a rustic office setting.",
-      "imageUrl": "",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1766548970/image-02_1_nycz8b.jpg",
       "imageHint": "office furniture"
     },
     {
