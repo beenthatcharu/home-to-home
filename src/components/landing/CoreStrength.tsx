@@ -5,7 +5,7 @@ import { Award, Puzzle, Leaf, Factory, Star } from 'lucide-react';
 const coreStrengths = [
   {
     icon: Star,
-    title: '30+ Years of Craftsmanship',
+    title: '35+ Years of Craftsmanship',
     description: 'Decades of experience crafting export-quality furniture — now available factory-direct with complete transparency.',
   },
   {
